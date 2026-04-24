@@ -1,1 +1,1 @@
-#FT Gumiszerviz weboldala
+FT Gumiszerviz weboldala
